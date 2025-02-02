@@ -27,7 +27,8 @@ Ana sayfada başvuru süreçlerini rahatça yönetebilirsiniz. Başvuru ekleme, 
 - *react-icons:* Kullanıcı arayüzünde ikonlar kullanmak için.
 
 # GİF (2 Adet)
-**Ana sayfa ve Silme işlemi**
+
+- **Ana sayfa ve Silme işlemi**
 ![ZightRecording2025-02-02at07 16 13PM-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/910660ce-e4eb-4c9d-af28-f1ce3466b95f)
 **Başvuru ekleme ve Güncelleme işlemi**
 ![ZightRecording2025-02-02at07 23 42PM-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/bb40f5fb-043e-4736-9074-a1f9a6254198)
