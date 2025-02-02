@@ -1,0 +1,48 @@
+@import "default";
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #171717;
+  padding: 5px 20px 0 20px;
+
+  @media (min-width: 900px) {
+    padding: 10px 20px 0 20px;
+
+    a {
+      padding: 25px 0 !important;
+    }
+  }
+
+  @media (max-width: 900px) {
+    h2 {
+      display: none;
+    }
+  }
+
+  .logo {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+
+    img {
+      width: 40px;
+    }
+  }
+
+  nav {
+    display: flex;
+    gap: 20px;
+
+    a {
+      padding: 15px 0;
+      color: rgba(255, 255, 255, 0.725);
+    }
+  }
+
+  .active {
+    border-bottom: 1px solid #2e8bca;
+    color: white;
+  }
+}
